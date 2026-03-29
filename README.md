@@ -4,7 +4,7 @@
 
 ---
 
-### 👋 Hello World! I'm Ayman <img src="https://media.giphy.com/media/WUlxpCBG1z0pL7R66M/giphy.gif" width="35px">
+### 👋 Hello World! I'm Aymen <img src="https://media.giphy.com/media/WUlxpCBG1z0pL7R66M/giphy.gif" width="35px">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicWJicWJicWJicWJicWJicWJicWJicWJicWJicWJicWJp/L1R1tvIMcyH9S/giphy.gif" align="right" width="180" />
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ My Digital Toolbelt (Animated SVG Stack)
+## 🛠️ My Digital Toolbelt 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,c,discord,gmail,instagram,linkedin,pycharm,python,spotify,vscode,twitter,windows,github,php,mysql,js,html,css&theme=dark" />
