@@ -10,15 +10,15 @@
 
 - 🎓 **Background:** Specialized Technician in Digital Development.
 - 💻 **Tech Enthusiast:** Building modern web experiences.
-- 🎯 **Current Focus:** Mastering **ReactJS** & **TailwindCSS**.
-- ⚡ **Fun Fact:** *"I'm always ready for the next one."*
+- 🎯 **Current Focus:** Mastering **Python** & **HTML/CSS**.
+- ⚡ **Fun Fact:** *"Wake up to reality.No one will help you in this world. you must work on youself"*
 
 ---
 
 ## 🛠️ My Digital Toolbelt (Animated SVG Stack)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,c,discord,gmail,instagram,linkedin,pycharm,python,spotify,vscode,twitter,windows,brave,chrome,edge,notepadpp,github,php,mysql,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,discord,gmail,instagram,linkedin,pycharm,python,spotify,vscode,twitter,windows,github,php,mysql,js,html,css&theme=dark" />
 </p>
 
 ---
