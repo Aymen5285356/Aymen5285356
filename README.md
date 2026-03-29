@@ -15,15 +15,18 @@
 
 ---
 
+---
+
 ## 🛠️ My Digital Toolbelt (Animated)
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-creator/main/icons/technologies/javascript.gif" width="50" height="50"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-creator/main/icons/technologies/react.gif" width="50" height="50"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-creator/main/icons/technologies/tailwindcss.gif" width="50" height="50"/></a>
-  <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-creator/main/icons/technologies/nodejs.gif" width="50" height="50"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-creator/main/icons/technologies/mongodb.gif" width="50" height="50"/></a>
-  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-creator/main/icons/technologies/figma.gif" width="50" height="50"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mongodb,mysql,php,figma,github,vercel,html,css&theme=dark" />
+  </a>
+</p>
+
+<p align="left">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=2&line1=javascript,react,tailwind,nodejs,express;&line2=mongodb,mysql,php,figma,github;&theme=tokyonight" alt="My Tech Stack" />
 </p>
 
 ---
