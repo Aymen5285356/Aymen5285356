@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Madara.gif" width="400" alt="وصف الصورة">
+  <img src="Madara.gif" width="400" alt="Madara">
 </p>
 
 <p align="center">
@@ -32,10 +32,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="Aizen.gif" width="400" alt="وصف الصورة">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aymen5285356&theme=tokyonight&hide_border=true" />
+  <img src="Aizen.gif" width="400" alt="Aizen">
 </p>
 
 <p align="center">
