@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="Madara.gif" width="400" alt="Madara">
+<p align="center"> 
+  <img src="Madara.gif" width="900">
 </p>
 
 <p align="center">
@@ -31,8 +31,8 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="Aizen.gif" width="400" alt="Aizen">
+<p align="center"> 
+  <img src="Aizen.gif" width="900">
 </p>
 
 <p align="center">
