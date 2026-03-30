@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Ayman%20El%20Yaakoubi&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Specialized%20Technician%20in%20Digital%20Development&descAlignY=60&descSize=20" />
-</p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A9FE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Digital+Development+Specialist;Open+Source+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A9FE&center=true&vCenter=true&width=500&lines=Aymen+El+yaakoubi;technicien+Specialisée;en+develepement+digital;Robotique+web+site" alt="Typing SVG" />
   </a>
 </p>
 
