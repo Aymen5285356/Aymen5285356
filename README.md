@@ -1,13 +1,6 @@
 
 <p align="center">
-  <img src="madara.gif" width="900" alt="Madara GIF">
-</p>
-
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com" alt="Typing SVG" />
-  </a>
+  <img src="madara.gif" width="400" alt="Madara GIF">
 </p>
 
 <p align="center">
@@ -40,7 +33,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center"> 
-  <img src="aizen.gif" width="900">
+  <img src="aizen.gif" width="400">
 </p>
 
 <p align="center">
