@@ -4,49 +4,49 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A9FE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A9FE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Digital+Development+Specialist;Open+Source+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 👋 Hello World! I'm Aymen <img src="https://media.giphy.com/media/WUlxpCBG1z0pL7R66M/giphy.gif" width="35px">
-# Hi, I'm [Your Name] 👋
+### ⚡ About Me
 
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicWJicWJicWJicWJicWJicWJicWJicWJicWJicWJicWJp/L1R1tvIMcyH9S/giphy.gif" align="right" width="180" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicWJicWJicWJicWJicWJicWJicWJicWJicWJicWJicWJp/L1R1tvIMcyH9S/giphy.gif" align="right" width="160" />
 
 - 🎓 **Background:** Specialized Technician in Digital Development.
-- 💻 **Tech Enthusiast:** Building modern web experiences.
-- 🎯 **Current Focus:** Mastering **Python** & **HTML/CSS**.
-- ⚡ **Fun Fact:** *"Wake up to reality.No one will help you in this world. you must work on youself"*
+- 💻 **Tech Enthusiast:** Crafting modern, high-performance web experiences.
+- 🎯 **Current Focus:** Mastering **Advanced Python** and Modern **Frontend Architecture**.
+- 💬 **Quote:** *"Wake up to reality. Growth begins where your comfort zone ends."*
 
 ---
-## Markdown
-![ocean](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-## 🛠️ My Digital Toolbelt 
+### 🛠️ My Digital Toolbelt 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,c,discord,gmail,instagram,linkedin,pycharm,python,spotify,vscode,twitter,windows,github,php,mysql,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,py,arduino,c,discord,gmail,instagram,linkedin,pycharm,vscode,windows,github&theme=dark" />
 </p>
 
 ---
 
-## 📊 Activity & Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aymen5285356&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymen5285356&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aymen5285356&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymen5285356&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aymen5285356&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aymen5285356&theme=tokyonight" width="100%" />
+</p>
+
 ---
 
-## 📫 Let's Connect
+### 🤝 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aymane-ya%C3%A2koubi-9907133aa" target="_blank">
@@ -63,5 +63,9 @@
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Aymen5285356/Aymen5285356/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Aymen5285356&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
