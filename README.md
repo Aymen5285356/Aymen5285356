@@ -1,5 +1,13 @@
-<p align="center"> 
-  <img src="Madara.gif" width="900">
+
+<p align="center">
+  <img src="Madara.gif" width="900" alt="Madara GIF">
+</p>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
