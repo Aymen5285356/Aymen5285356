@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Madara.gif" width="900" alt="Madara GIF">
+  <img src="madara.gif" width="900" alt="Madara GIF">
 </p>
 
 
@@ -40,7 +40,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center"> 
-  <img src="Aizen.gif" width="900">
+  <img src="aizen.gif" width="900">
 </p>
 
 <p align="center">
