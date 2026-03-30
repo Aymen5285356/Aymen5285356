@@ -14,6 +14,8 @@
 - ⚡ **Fun Fact:** *"Wake up to reality.No one will help you in this world. you must work on youself"*
 
 ---
+## Markdown
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## 🛠️ My Digital Toolbelt 
 
