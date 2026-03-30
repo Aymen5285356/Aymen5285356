@@ -5,7 +5,13 @@
 ---
 
 ### 👋 Hello World! I'm Aymen <img src="https://media.giphy.com/media/WUlxpCBG1z0pL7R66M/giphy.gif" width="35px">
+# Hi, I'm [Your Name] 👋
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+cool+things+with+code" alt="Typing SVG" />
+  </a>
+</h1>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicWJicWJicWJicWJicWJicWJicWJicWJicWJicWJicWJp/L1R1tvIMcyH9S/giphy.gif" align="right" width="180" />
 
 - 🎓 **Background:** Specialized Technician in Digital Development.
