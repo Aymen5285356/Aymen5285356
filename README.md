@@ -2,16 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Ayman%20El%20Yaakoubi&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Specialized%20Technician%20in%20Digital%20Development&descAlignY=60&descSize=20" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A9FE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  </a>
+</p>
+
 ---
 
 ### 👋 Hello World! I'm Aymen <img src="https://media.giphy.com/media/WUlxpCBG1z0pL7R66M/giphy.gif" width="35px">
 # Hi, I'm [Your Name] 👋
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+cool+things+with+code" alt="Typing SVG" />
-  </a>
-</h1>
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicWJicWJicWJicWJicWJicWJicWJicWJicWJicWJicWJp/L1R1tvIMcyH9S/giphy.gif" align="right" width="180" />
 
 - 🎓 **Background:** Specialized Technician in Digital Development.
