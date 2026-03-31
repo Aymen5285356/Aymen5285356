@@ -11,7 +11,11 @@
 
 ---
 
-### ⚡ About Me
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=red&center=true&vCenter=true&width=500&lines=my+digital+toolbelt" alt="Typing SVG" />
+  </a>
+</p>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicWJicWJicWJicWJicWJicWJicWJicWJicWJicWJicWJp/L1R1tvIMcyH9S/giphy.gif" align="right" width="160" />
 
@@ -22,8 +26,11 @@
 
 ---
 
-### 🛠️ My Digital Toolbelt 
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A9FE&center=true&vCenter=true&width=500&lines=my+digital+skills" alt="Typing SVG" />
+  </a>
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,py,arduino,c,discord,gmail,instagram,linkedin,pycharm,vscode,windows,github&theme=dark" />
 </p>
