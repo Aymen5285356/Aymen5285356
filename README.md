@@ -47,10 +47,31 @@
   <img src="aizen.gif" width="400">
 </p>
 
+<!-- GitHub Profile Summary Cards -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aymen5285356&theme=tokyonight" width="100%" />
 </p>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aymen5285356&theme=tokyonight" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aymen5285356&theme=tokyonight" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aymen5285356&theme=tokyonight" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aymen5285356&theme=tokyonight&utcOffset=0" />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 <p align="center">
