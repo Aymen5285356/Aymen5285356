@@ -37,7 +37,11 @@
 
 ---
 
-### 📊 GitHub Analytics
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=red&center=true&vCenter=true&width=500&lines=Github+analytics" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center"> 
   <img src="aizen.gif" width="400">
@@ -49,7 +53,11 @@
 
 ---
 
-### 🤝 Connect with me
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=red&center=true&vCenter=true&width=500&lines=Connect+with+me" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aymane-ya%C3%A2koubi-9907133aa" target="_blank">
