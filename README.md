@@ -81,7 +81,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/Aymen5285356/Aymen5285356/raw/output/github-contribution-grid-snake.svg" alt="snake eating Aymen5285356's contributions"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake eating contributions"/>
 </p>
 
 <p align="center"> 
