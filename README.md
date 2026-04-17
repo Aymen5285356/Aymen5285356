@@ -81,9 +81,9 @@
 
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://snake-game-xi.vercel.app/api/snake?username=Aymen5285356&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://snake-game-xi.vercel.app/api/snake?username=Aymen5285356&theme=light">
-  <img alt="github contribution grid snake animation" src="https://snake-game-xi.vercel.app/api/snake?username=Aymen5285356">
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
 </picture>
 ---
 <p align="center"> 
