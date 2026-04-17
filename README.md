@@ -81,9 +81,9 @@
 
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github/Aymen5285356/.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://github/Aymen5285356/.com">
-  <img alt="github contribution grid snake animation" src="https://github/Aymen5285356/.com">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aymen5285356/">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Aymen5285356/">
+  <img alt="github contribution grid snake animation" src="https://github.com/Aymen5285356/">
 </picture>
 ---
 <p align="center"> 
