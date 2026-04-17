@@ -80,12 +80,14 @@
 </p>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
-</picture>
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+    <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
+  </picture>
+</p>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Aymen5285356&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
