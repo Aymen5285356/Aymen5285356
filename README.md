@@ -80,16 +80,12 @@
 </p>
 
 ---
-<p align="center">
-  🚀 Always learning • Always building • Always improving
-</p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aymen5285356/Aymen5285356/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aymen5285356/Aymen5285356/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aymen5285356/Aymen5285356/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://snake-game-xi.vercel.app/api/snake?username=Aymen5285356&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://snake-game-xi.vercel.app/api/snake?username=Aymen5285356&theme=light">
+  <img alt="github contribution grid snake animation" src="https://snake-game-xi.vercel.app/api/snake?username=Aymen5285356">
 </picture>
-
+---
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Aymen5285356&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
