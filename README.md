@@ -34,8 +34,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,py,arduino,c,discord,gmail,instagram,linkedin,pycharm,vscode,windows,github&theme=dark" />
 </p>
-
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 ---
 
